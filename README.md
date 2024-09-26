@@ -1,5 +1,6 @@
 # Book Bot
 Provides a simple report of a given book or any .txt file
+
 -Currently gets character count and word count 
 
  
