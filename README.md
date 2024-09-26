@@ -10,6 +10,7 @@ Provides a simple report of a given book or any .txt file
 - Run the code to generate report
 
 # Current Report Logic: Sample Output
+```
 --- Begin report of books/frankenstein.txt ---
 77986 words found in the document
 The p character was found 6121 times
@@ -39,3 +40,4 @@ The z character was found 243 times
 The x character was found 677 times
 The q character was found 324 times
 --- End report ---
+```
