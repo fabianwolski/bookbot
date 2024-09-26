@@ -7,7 +7,7 @@ Provides a simple report of a given book or any .txt file
 # Instructions
 
 - Copy and paste a book of choice inside a .txt file
-- Change the filepath to the filepath of your newly created .txt file
+- Change the filepath variable to the filepath of your newly created .txt file
 - Run the code to generate report
 
 # Current Report Logic: Sample Output
